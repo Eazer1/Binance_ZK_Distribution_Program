@@ -12,4 +12,6 @@ cd Binance_ZK_Distribution_Program
 ```
 python main.py
 ```
-[**Как запустить код без установки на свой пк**](https://teletype.in/@eazer/how_to_start_code_in_chrome)
+[**Как запустить код без установки на свой пк (пример)**](https://teletype.in/@eazer/how_to_start_code_in_chrome)
+
+- Автор https://t.me/Eazercrypto
